@@ -59,7 +59,7 @@ print ("newlist1 = ", newlist1)  # [144, 100]
 from Pranjali Sabale to All Panelists:
 How comprehension will work on list having inner list?
 
-from Sumeetsingh Thakur to Sakshi (privately):
+from Sumeetsingh Thakur to Nilakantha (privately):
     
 is it possible to append/add new key-value pair on the basis of compehension dictionary.
 

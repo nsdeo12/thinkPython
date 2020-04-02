@@ -14,9 +14,9 @@ print ("Hello", xnum)
 """
 Ouptput of input() function in Python3 as below->
 Case1:
-Enter your name : Sakshi
+Enter your name : Nilakantha
 Type of y =  <class 'str'>
-Hello Sakshi
+Hello Nilakantha
 
 
 Case2:
@@ -35,7 +35,7 @@ Hello 3+6
 In Python 2.x, we had raw_input() function as shown below, not available in Python3
 x = raw_input("Please enter ur name :")  #raw_input function provides prompt to accept the user input from keyboard, input is ""  string
 print ("Type of x = ", type(x))
-print ("Hello ", x) #"Sakshi"   ("10")
+print ("Hello ", x) #"Nilakantha"   ("10")
 print ("-----------------------------------------------------")
 """
 

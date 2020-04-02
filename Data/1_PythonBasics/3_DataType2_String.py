@@ -10,17 +10,17 @@ print ("String upto 4 index = ",s[:4])                #0123
 #print ("character at 8 index = ",s[8])               #IndexError: string index out of range
 print ("-----------------------------------------------------")
 
-str1 ="Persistent"
-print ("Original string str1  = ", str1)              #Persistent
+str1 ="Nilakantha"
+print ("Original string str1  = ", str1)              #Nilakantha
 size = len(str1)    #str1.len  not call like this
 print ("length of str1 = ", len(str1))                #10
 print ("-----------------------------------------------------")
-str ="Welcome to PSL. PSL Pune"
-print ("Original string str  = ", str)                #Welcome to PSL. PSL Pune
-#count1 = str.count('PSL',0,len(str))
-count1 = str.count('PSL',0,99)
+str ="Welcome to datalitics. datalitics Pune"
+print ("Original string str  = ", str)                #Welcome to datalitics. datalitics Pune
+#count1 = str.count('datalitics',0,len(str))
+count1 = str.count('datalitics',0,99)
 #str.isalpha()
-print ('Count of PSL in str = ',count1)               #2
+print ('Count of datalitics in str = ',count1)               #2
 print ("-----------------------------------------------------")
 print ("String formats in Python = ")
 print ("one, %.2f, two" % 8 )                                   #one, 2, two

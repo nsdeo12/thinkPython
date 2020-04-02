@@ -33,7 +33,7 @@ In END!!!!
 2)
 testfile = open('data.txt')
 >>> 
-File data =  ['PSL\n', 'Welcome to PSL\n', 'Pune\n', '2015 BYE!!!!']
+File data =  ['datalitics\n', 'Welcome to datalitics\n', 'Pune\n', '2015 BYE!!!!']
 In Inner finally
 In Outer finally
 In END!!!!
