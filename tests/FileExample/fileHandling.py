@@ -1,0 +1,11 @@
+f=open("myfile.txt","w")
+print(dir(f))
+print("----------------------------------------------------")
+f.write("Welcome to PSL")
+f.write("AA ja Ayi bahar")
+f.close()
+f1=open("myfile.txt")
+# f1.write("ding dong")
+print(f1.readline())
+import os
+print(">>>path>>",os.getcwd())
